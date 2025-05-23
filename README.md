@@ -22,10 +22,11 @@ I am a self taught IT Professional, Management guy by study, analyst by professi
 * Education -  BBM then completed MBA
 * Technical Education - Trained in Data Science field from IIM-Kashipur
 
+## Languages & tools
+
+
+
 <!--
-![Pavan Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=surpavan&show_icons=true&theme=transparent)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+https://streak-stats.demolab.com/demo/?user=surpavan&theme=transparent&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&date_format=&mode=weekly&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background
 -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=surpavan&theme=transparent&hide_current_streak=true)](https://git.io/streak-stats)
