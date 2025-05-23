@@ -22,7 +22,7 @@ I am a self taught IT Professional, Management guy by study, analyst by professi
 * Education -  BBM then MBA (pure Business groups)
 * Technical Education - Trained in Data Science field from IIM-Kashipur
 
-### Languages & tools
+### Tools for job
 
 **Languages**: Python, R, SQL (efficient on both OLTP & OLAP), C#, VB, Bash, PowerShell, BAT
 
