@@ -20,7 +20,7 @@ My name is <ins>**Pavan Kumar**</ins>.
 I am a self taught IT Professional, Management guy by study, analyst by profession. Overall - an analyst with sound technical knowledge and who understands business perspective of requirments.
 
 * Education -  BBM then MBA (pure Business groups)
-* Technical Education - Trained in Data Science field from IIM-Kashipur
+* Technical Education - Trained in Data Science field from IIM-Kashipur, Linux and Windows Server administration,  self taught .Net & Python developer (at par with a 10yr developer).
 
 ### Tools for job
 
